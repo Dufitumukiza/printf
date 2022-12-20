@@ -1,2 +1,2 @@
-0x11. C - printf team project done by DUFITUMUKIZA Jonathan R and Sonnie Egbu
+0x11. C - printf team project done by DUFITUMUKIZA Jonathan Rwamamara and Sonnie Egbua
 
